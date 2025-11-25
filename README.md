@@ -2,8 +2,6 @@
 
 ### A WiFi-enabled magic wand system with LED spells, IR control, and a motorized unlocking box
 
-![Header](./images/header.jpg)
-
 ------------------------------------------------------------------------
 
 ## 🔮 Overview
