@@ -57,8 +57,8 @@ The IR remote acts as a wand, sending codes that trigger spells:
 
 ## 🎥 Demo Videos
 <p align="center">
-  <img src="./images/vid1.gif" width="200">
-  <img src="./images/vid2.gif" width="200">
+  <img src="./images/vid1.gif" height="700">
+  <img src="./images/vid2.gif" height="700">
 </p>
 
 ------------------------------------------------------------------------
