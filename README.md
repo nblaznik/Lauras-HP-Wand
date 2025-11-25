@@ -56,8 +56,10 @@ The IR remote acts as a wand, sending codes that trigger spells:
 ------------------------------------------------------------------------
 
 ## 🎥 Demo Videos
-  <img src="./images/vid1.gif" width="48">
-  <img src="./images/vid2.gif" width="48">
+<p align="center">
+  <img src="./images/vid1.gif" width="200">
+  <img src="./images/vid2.gif" width="200">
+</p>
 
 ------------------------------------------------------------------------
 
@@ -66,9 +68,11 @@ The IR remote acts as a wand, sending codes that trigger spells:
   ------------------------------------------------------------------------------------
   Box Mechanism            LED Controller                  Wand + IR Receiver
   ------------------------ ------------------------------- ---------------------------
-  <img src="./images/img1.jpg" width="48">
-  <img src="./images/img2.jpg" width="48">
-  <img src="./images/img3.jpg" width="48">
+  <p align="center">
+    <img src="./images/img1.jpg" width="200">
+    <img src="./images/img2.jpg" width="200">
+    <img src="./images/img3.jpg" width="200">
+  </p>
 
   ------------------------------------------------------------------------------------
 
