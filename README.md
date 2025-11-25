@@ -16,7 +16,7 @@ programmable and can be updated over WiFi using **ArduinoOTA**.
 Inside the repo you'll find: - The complete Arduino code that controls
 spells, LEDs, and the unlocking mechanism\
 - 3D-printed designs for the controller and box mechanism\
-- Images, videos, and build documentation inside the `images/` folder\
+- Images, videos, and build documentation (not yet, ill eventually upload it) inside the `images/` folder\
 - Test sketches and development notes from the build process
 
 ------------------------------------------------------------------------
@@ -57,8 +57,8 @@ The IR remote acts as a wand, sending codes that trigger spells:
 
 ## 🎥 Demo Videos
 
-https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/images/demo_spellcasting.mp4\
-https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/images/demo_unlock.mp4
+![Video - ](.images/vid1.mp4)
+![Video - LED](.images/vid2.mp4)
 
 ------------------------------------------------------------------------
 
@@ -67,9 +67,8 @@ https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/images/demo_unlock.mp4
   ------------------------------------------------------------------------------------
   Box Mechanism            LED Controller                  Wand + IR Receiver
   ------------------------ ------------------------------- ---------------------------
-  ![](./images/box1.jpg)   ![](./images/controller1.jpg)   ![](./images/wand1.jpg)
+  ![](./images/img1.jpg)   ![](./images/img2.jpg)   ![](./images/img3.jpg)
 
-  ![](./images/box2.jpg)   ![](./images/controller2.jpg)   ![](./images/wand2.jpg)
   ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
